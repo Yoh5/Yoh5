@@ -24,6 +24,7 @@ Currently: **Cycle Ingénieur IA & Data** @ HESTIM (Morocco) · previously **B.S
 | 🎙️ **[Holokia Interview Agent](https://github.com/Yoh5/holokia-agent-casestudy)** | Production AI agent that runs HR interviews over WhatsApp/web — 6 reasoning loops (planning, self-critique, memory, action-selection, learning), anti-cheating, scored PDF reports. *(case study)* | FastAPI · LangGraph · OpenAI/Groq · Supabase · Docker · Render |
 | 🤖 **[Tech Watch Agent](https://github.com/Yoh5/agent_veille_tech)** | Autonomous agent: the LLM judges what matters, fetches full articles itself (SSRF-safe), and synthesises the day's trends. 63 tests. | Python · FastAPI · OpenAI/Anthropic · APScheduler |
 | 🧹 **[Intelligent Data Cleaner](https://github.com/Yoh5/intelligent_data_cleaner)** | Upload a messy CSV/Excel → auto-profiled → generates a standalone, AST-validated Python cleaning script. | FastAPI · Next.js 14 · React 19 · Pandas · Docker |
+| 🎯 **[Career Match Agent](https://github.com/Yoh5/career_match_agent)** | Scores your CV against a job offer (LLM + ATS keyword coverage), suggests CV improvements, and generates an ATS-optimised tailored CV & cover letter (FR/EN). | Python · FastAPI · OpenAI |
 
 ### 🛠️ Tech I work with
 
